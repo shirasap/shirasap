@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Shirasa Prajapati. :)</h1>
-<h3 align="center">A passionate software engineer from Canada!</h3>
+<h1>Hi 👋, I'm Shirasa Prajapati! :)</h1>
+<h3>A passionate software engineer from Canada with deep curiosity and a strong eagerness to collaborate and solve complex problems. </h3>
 
 - 🔭 I’m currently working on [PotteryPal](https://github.com/shirasap/potterypal)
 
@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **shirasapraja@gmail.com**
 
-- 🤝 Connect with me on [https://www.linkedin.com/in/shirasa/](https://www.linkedin.com/in/shirasa/)
+- 🤝 Connect with me [https://www.linkedin.com/in/shirasa/](https://www.linkedin.com/in/shirasa/)
 
 <p align="left">
 </p>
